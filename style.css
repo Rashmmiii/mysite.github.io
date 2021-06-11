@@ -24,18 +24,18 @@ body{
 }
 .topcloud{
     position: absolute;
-    width:  150px;
-    height: 150px;
-    right:200px;
-    top:80px;
+    width:  9.30rem;
+    height: 9.30rem;
+    right:  12.5rem;
+    top:    5rem;
 }
 
 .bottcloud{
-    width:  150px;
-    height: 150px;
+   width:  9.30rem;
+    height: 9.30rem;
     position: absolute;
-    left:200px;
-    bottom:80px;
+    left:  12.5rem;
+    bottom:  5rem;
 }
 
 .hot-ballon{
