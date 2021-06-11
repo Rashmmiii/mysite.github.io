@@ -102,12 +102,12 @@ a:hover{
 
 .prog-img{
     width:30%;
-    float: left;
+/*     float: left; */
     margin-right: 30px;
 }
 .tv-img{
     width:30%;
-    float: right;
+/*     float: right; */
     margin-left: 30px;
 }
 .skill-head{
